@@ -1,5 +1,5 @@
 --Marco Gonzalez Luna
---Tarea 2
+--Tarea extra, with
 
 WITH R as (
 SELECT DISTINCT c.boleta, c.clave
